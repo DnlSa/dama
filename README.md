@@ -6,6 +6,6 @@ for flashing use
 
 ARDUINO IDE 1.0.6
 install driver windows FT232
-install external libray .zip in arduino ide U8GLIB
+install external library .zip in arduino ide U8GLIB
 
 compile marlin and flash... :D!!
